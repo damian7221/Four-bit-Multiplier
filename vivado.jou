@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr 13 03:38:29 2022
+# Process ID: 9056
+# Current directory: C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8468 C:\Users\A\Desktop\POT石NE STUDIA\semestr 6\UKDY PROGRAMOWALNE\PROJEKT\MUL4X4\MUL4X4.xpr
+# Log file: C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4/vivado.log
+# Journal file: C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4/MUL4X4.xpr}
+update_compile_order -fileset sources_1
+add_files -norecurse {{C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/SUMATOR 4 BIT/SUM1B.vhd}}

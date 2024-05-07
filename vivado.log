@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr 13 03:38:29 2022
+# Process ID: 9056
+# Current directory: C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8468 C:\Users\A\Desktop\POT石NE STUDIA\semestr 6\UKDY PROGRAMOWALNE\PROJEKT\MUL4X4\MUL4X4.xpr
+# Log file: C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4/vivado.log
+# Journal file: C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4/MUL4X4.xpr}
+WARNING: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/MUL4X4/MUL4X4.gen/sources_1'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.2/data/ip'.
+open_project: Time (s): cpu = 00:00:12 ; elapsed = 00:00:06 . Memory (MB): peak = 1018.277 ; gain = 0.000
+update_compile_order -fileset sources_1
+add_files -norecurse {{C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/SUMATOR 4 BIT/SUM1B.vhd}}
+WARNING: [filemgmt 56-12] File 'C:/Users/A/Desktop/POT石NE STUDIA/semestr 6/UKDY PROGRAMOWALNE/PROJEKT/SUMATOR 4 BIT/SUM1B.vhd' cannot be added to the project because it already exists in the project, skipping this file
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Apr 13 03:39:46 2022...
